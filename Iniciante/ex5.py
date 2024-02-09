@@ -4,6 +4,7 @@
 #Se o delta calculado for negativo, a equação não possui raizes reais. Informe ao usuário e encerre o programa;
 #Se o delta calculado for igual a zero a equação possui apenas uma raiz real; informe-a ao usuário;
 #Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário;
+import sys
 
 def calcular_delta(a,b,c):
     delta = (b)**2 - 4*a*c
@@ -17,7 +18,11 @@ def calcular_raiz(delta):
     else:
         return "Não há raiz"
     
-a=float(input("Informe o valor da constante a: ")) 
+a=float(input("Informe o valor da constante a: "))
+if a=0:
+    print("Não é uma equaçao do segundo grau!")
+    sys.exit()
+    
 b=float(input("Informe o valor da constante b: "))
 c=float(input("Informe o valor da constante c: "))
 
