@@ -9,3 +9,8 @@
 <h2>Nível</h2>
 
 <li><a href="https://github.com/IsadoraFigueiredo/Python/tree/master/Iniciante">Iniciante</a></li>
+ <br>
+ <ul>
+      <li><a href="https://github.com/IsadoraFigueiredo/Python/tree/master/Iniciante/Estrutura%20Sequencial">Estrutura Sequencial</li>
+      <li><a href="https://github.com/IsadoraFigueiredo/Python/tree/master/Iniciante/Estrutura%20de%20Decisão">Estrutura de Decisão</li>
+   </ul>
