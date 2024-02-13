@@ -13,5 +13,6 @@
  <ul>
       <li><a href="https://github.com/IsadoraFigueiredo/Python/tree/master/Iniciante/Estrutura%20Sequencial">Estrutura Sequencial</li></a>
       <li><a href="https://github.com/IsadoraFigueiredo/Python/tree/master/Iniciante/Estrutura%20de%20Decisão">Estrutura de Decisão</li></a>
-      <li><a href ="https://github.com/IsadoraFigueiredo/Python/tree/master/Iniciante/Repetição">Repetição</li></a>  
+      <li><a href ="https://github.com/IsadoraFigueiredo/Python/tree/master/Iniciante/Repetição">Repetição</li></a>
+      <li><a href= "https://github.com/IsadoraFigueiredo/Python/tree/master/Iniciante/Lista">Lista</li></a>  
    </ul>
