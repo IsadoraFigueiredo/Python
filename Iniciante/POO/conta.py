@@ -1,3 +1,9 @@
+''' Crie uma classe Conta que tenha os atributos saldo e titular e os métodos 
+depositar() e sacar(). Em seguida, instancie essa classe com um saldo inicial e 
+realize algumas operações de depósito e saque para verificar se o saldo está 
+sendo atualizado corretamente.
+'''
+
 class Conta:
     def __init__(self, titular, saldo_inicial=0):
         self.titular = titular
